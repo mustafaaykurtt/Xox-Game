@@ -1,4 +1,4 @@
-<H1>XoX Game</H1>
+<H1>XoX</H1>
 
 </br>
 </br>
